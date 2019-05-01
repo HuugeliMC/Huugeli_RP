@@ -29,6 +29,8 @@ _(____/_____/___/_(___ _/___/_____(____/___(___/_(___(__/_____(___ _(___ ______
   \_/   \_/   \_/   \_/ 
 
 Please view this in the raw mode!
+https://raw.githubusercontent.com/HuugeliMC/Huugeli_RP/master/README.md
+
 _______________________________________________________________________________
 
 
